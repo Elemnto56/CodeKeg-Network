@@ -6,4 +6,4 @@ layouts/
 public/
 static/
 themes/
-hugo.tmol
+CodeKeg-Network/hugo.toml
